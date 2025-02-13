@@ -6,31 +6,31 @@ const Doctors = () => {
     {
       id: 1,
       name: 'Dr. Sangharsh Uttam Rajule',
-      specialization: 'Cardiologist',
+      specialization: 'Physician',
       experience: 10,
       availability: true,
       image: 'https://via.placeholder.com/100'
     },
     {
       id: 2,
-      name: 'Dr. A Kadam',
-      specialization: 'Neurologist',
+      name: 'Dr. Ashwini Kadam',
+      specialization: 'Gynacologist',
       experience: 8,
       availability: true,
       image: 'https://via.placeholder.com/100'
     },
     {
       id: 3,
-      name: 'Dr. Emily Brown',
-      specialization: 'Pediatrician',
+      name: 'Archana Shriram Jadhav',
+      specialization: 'Pharmacist',
       experience: 12,
-      availability: false,
+      availability: true,
       image: 'https://via.placeholder.com/100'
     },
     {
       id: 4,
-      name: 'Dr. Robert Wilson',
-      specialization: 'Orthopedic Surgeon',
+      name: 'Amol Misal',
+      specialization: 'Lab Technician',
       experience: 15,
       availability: true,
       image: 'https://via.placeholder.com/100'

@@ -12,7 +12,7 @@ const Footer = () => {
             <h2 className='text-xl font-bold'>Phc Verul</h2>
             <p className='mt-2 text-sm'>
               Opposite Ghrushneshwar Temple, Ellora, Tq.Khuldabad, <br /> Dist Aurangabad <br />
-              Phone: (123) 456-7890 <br />
+              Phone: 02437-297130 <br />
               Email: phc.verul8@gmail.com
             </p>
           </div>
@@ -43,7 +43,7 @@ const Footer = () => {
           <div>
             <h2 className='text-xl font-bold'>Follow Us</h2>
             <div className='mt-2 flex justify-center md:justify-start space-x-4'>
-              <a href='#' className='text-white hover:text-gray-300 text-2xl'>
+              <a href='https://www.facebook.com/yash.wagh.14855' className='text-white hover:text-gray-300 text-2xl'>
                 <FaFacebook />
               </a>
               <a href='#' className='text-white hover:text-gray-300 text-2xl'>
